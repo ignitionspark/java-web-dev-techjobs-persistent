@@ -1,5 +1,5 @@
 ## Part 1: Test it with SQL
-SHOW COLUMNS FROM techjobs.job
+SHOW COLUMNS FROM techjobs.job;
 
 
 ## Part 2: Test it with SQL
